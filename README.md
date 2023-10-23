@@ -1,4 +1,5 @@
 # requests.wtf
+![](https://i.imgur.com/oTYZfo9.png)
 
 Requests is a community-sourced list of ideas worth exploring for makers in the Nouns ecosystem.
 
