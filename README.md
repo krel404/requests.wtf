@@ -47,7 +47,7 @@ Requests is a community-sourced list of ideas worth exploring for makers in the 
 
 ---
 ### Past
-- **Proposal updates**
+- **Proposal status updates**
   - The DAO is lacking an onchain channel for proposers to issue written updates and progress reports.
     - _Filled by propdates.wtf_
 
