@@ -1,6 +1,6 @@
 # requests.wtf
 
-Requests is a community-sourced list of ideas that can be worth exploring for makers in the Nouns ecosystem.
+Requests is a community-sourced list of ideas worth exploring for makers in the Nouns ecosystem.
 
 
 ---
