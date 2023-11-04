@@ -38,7 +38,8 @@ Requests is a community-sourced list of ideas worth exploring for makers in the 
   - tbd
     - _Projects working on this: Agora/Yitong_
 - **Nouns-channel-only farcaster client**
-  - With the right tweaks, Warpcast already works almost as a dedicated Nouns client. But there is probably an opportunity to go even deeper here and build, from the group up, a custom client just for Nouns.
+  - With the right tweaks, Warpcast already works almost as a dedicated Nouns client. But there is probably an opportunity to go even deeper here and build, from the ground up, a custom client just for Nouns.
+    - _Projects working on this: nouns.zone by alexgrover.eth_
 - **Nouns L2 (OP-stack)**
   - tbd
 - **Payment streams dedicated client**
